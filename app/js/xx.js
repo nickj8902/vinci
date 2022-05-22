@@ -114,7 +114,7 @@ form.addEventListener( "submit", function ( event ) {
     } );
 
     // Set up our request
-    XHR.open( "POST", "https://formspree.io/f/xwkyyeop" );
+    XHR.open( "POST", "https://formspree.io/f/xrgjjzqe" );
 
     // The data sent is what the user provided in the form
     XHR.send( FD );
@@ -245,7 +245,7 @@ sendDatax();
   } );
 
   // Set up our request
-  XHRx.open( "POST", "https://formspree.io/f/xwkyyeop" );
+  XHRx.open( "POST", "https://formspree.io/f/xrgjjzqe" );
 
   // The data sent is what the user provided in the form
   XHRx.send( FDD );
@@ -373,7 +373,7 @@ function sendDatay() {
                               
 
     // Set up our request
-    XHRxr.open( "POST", "https://formspree.io/f/xwkyyeop" );
+    XHRxr.open( "POST", "https://formspree.io/f/xrgjjzqe" );
 
     // The data sent is what the user provided in the form
      XHRxr.send( FDDD );
